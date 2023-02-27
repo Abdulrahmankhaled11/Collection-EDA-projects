@@ -1,1 +1,1 @@
-# Collection-EDA-projects
+# Collection EDA projects
